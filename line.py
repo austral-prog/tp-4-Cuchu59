@@ -14,10 +14,9 @@ def line():
 
     distance = math.dist(P1,P2)
 
-    print(f"""     
-El coeficiente A de su ecuación de la recta es: {A} 
-El coeficiente B de su ecuación de la recta es: {B} 
-El coeficiente X1 de su ecuación de la recta es: {X1} 
+    print(f"""El coeficiente A de su ecuación de la recta es: {A}
+El coeficiente B de su ecuación de la recta es: {B}
+El coeficiente X1 de su ecuación de la recta es: {X1}
 El coeficiente X2 de su ecuación de la recta es: {X2}
 
 Para la siguiente ecuación:
@@ -27,5 +26,4 @@ Dados los siguientes puntos:
         P1 ({X1}, {Y1})
         P2 ({X2}, {Y2})
 
-La distancia entre ellos es: {distance}
-    """)
+La distancia entre ellos es: {distance}""")
