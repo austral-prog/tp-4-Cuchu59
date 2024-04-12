@@ -19,7 +19,7 @@ def line():
     print(f'El coeficiente X2 de su ecuación de la recta es: {X2}')
     print('')
     print('Para la siguiente ecuación:')
-    print(f'\tY = {A}x + {B}')
+    print(f'\tY = {A}X + {B}')
     print('')
     print('Dados los siguientes puntos:')
     print(f'\tP1 ({P1[0]}, {P1[1]})')
